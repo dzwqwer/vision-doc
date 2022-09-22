@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvision_doc=self.webpackChunkvision_doc||[]).push([[45],{196:a=>{a.exports=JSON.parse('{"label":"test1","permalink":"/apaas-front-doc/blog/tags/test-1","allTagsPath":"/apaas-front-doc/blog/tags","count":1}')}}]);
