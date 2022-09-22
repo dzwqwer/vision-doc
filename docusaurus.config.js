@@ -73,9 +73,11 @@ const config = {
           to: '/blog',
           label: '博客',
           position: 'left'
-        }, {
-          href: 'xx', label: 'GitHub', position: 'right',
-        },],
+        },
+        // {
+        //   href: 'xx', label: 'GitHub', position: 'right',
+        // },
+      ],
       },
       footer: {
         style: 'dark', links: [{
