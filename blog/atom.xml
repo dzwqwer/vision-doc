@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hzm0321.github.io/apaas-front-doc/blog</id>
+    <id>https://hzm0321.github.io/vision-doc/blog</id>
     <title>汉得中台 aPaaS 前端团队 Blog</title>
     <updated>2022-09-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hzm0321.github.io/apaas-front-doc/blog"/>
+    <link rel="alternate" href="https://hzm0321.github.io/vision-doc/blog"/>
     <subtitle>汉得中台 aPaaS 前端团队 Blog</subtitle>
-    <icon>https://hzm0321.github.io/apaas-front-doc/img/logo.svg</icon>
+    <icon>https://hzm0321.github.io/vision-doc/img/logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[test1 常用配置项]]></title>
         <id>test1 常用配置项</id>
-        <link href="https://hzm0321.github.io/apaas-front-doc/blog/test1 常用配置项"/>
+        <link href="https://hzm0321.github.io/vision-doc/blog/test1 常用配置项"/>
         <updated>2022-09-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[cc]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cc">cc<a class="hash-link" href="#cc" title="标题的直接链接">​</a></h3>]]></content>
