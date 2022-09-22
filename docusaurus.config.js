@@ -10,7 +10,7 @@ const config = {
   title: '汉得中台 aPaaS 前端团队',
   tagline: 'Hand aPaaS',
   url: 'https://hzm0321.github.io',
-  baseUrl: '/apaas-front-doc/',
+  baseUrl: '/vision-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'hzm0321', // Usually your GitHub org/user name.
-  projectName: 'apaas-front-doc', // Usually your repo name.
+  organizationName: 'dzw', // Usually your GitHub org/user name.
+  projectName: 'vision-doc', // Usually your repo name.
   trailingSlash: false, // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -47,7 +47,7 @@ const config = {
       docs: {
         sidebarPath: require.resolve('./sidebars.js'), // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
-        editUrl: 'https://github.com/hzm0321/apaas-front-doc/blob/master',
+        editUrl: 'https://github.com/dzwqwer/vision-doc',
       }, blog: {
         showReadingTime: true, postsPerPage: 10, // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
@@ -94,7 +94,7 @@ const config = {
           },],
         }, {
           title: '更多', items: [{
-            label: 'GitHub', href: 'https://github.com/hzm0321/apaas-front-doc',
+            label: 'GitHub', href: 'https://github.com/dzwqwer/vision-doc',
           },],
         },], copyright: `Copyright © ${new Date().getFullYear()} Hand aPaaS Team, Inc. Built with Docusaurus.`,
       },

@@ -8,7 +8,7 @@ import '../css/theme.less';
 export default function Root({children}) {
   const location = useLocation();
   const isShowDocFeedback = () => {
-    return location.pathname.includes('apaas-front-doc/docs')
+    return location.pathname.includes('vision-doc/docs')
   }
 
   return (<>
